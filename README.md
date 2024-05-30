@@ -157,7 +157,7 @@ RuntimeException 의 이름을 따라서 RuntimeException 과 그 하위 언체�
   잡아준다.
 
 스프링 데이터 접근 예외 계층
-![캡처](./src/main/resources/img/스프링 데이터 접근 예외 계층.jpeg)
+![캡처](./src/main/resources/img/스프링%20데이터%20접근%20예외%20계층.jpeg)
 
 각 DB의 에러 정보를 가지고 있는 파일
 sql-error-codes.xml
